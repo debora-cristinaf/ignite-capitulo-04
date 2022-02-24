@@ -10,5 +10,6 @@
   "cli": {
     "migrationsDir": "./src/shared/infra/typeorm/migrations"
   },
-  "synchronize": true
+  "synchronize": false,
+  "logging": true
 }
