@@ -1,4 +1,4 @@
-import { CreateCarController } from "@modules/cars/useCases/createCar/createCarController";
+import { CreateCarController } from "@modules/cars/useCases/createCar/CreateCarController";
 import { CreateCarSpecificationController } from "@modules/cars/useCases/createCarSpecification/CreateCarSpecificationController";
 import { ListAvailableCarsController } from "@modules/cars/useCases/listAvaliableCars/ListAvailiableCarsController";
 import { UploadCarImagesController } from "@modules/cars/useCases/uploadCarImage/UploadCarImageController";
